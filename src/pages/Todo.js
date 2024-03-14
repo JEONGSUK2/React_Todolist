@@ -71,7 +71,7 @@ const TodolistField = (props) => {
     return (
         <>
           <AppBar position='static'>
-            TODOLIST
+            TODOLIST~
             <Toolbar>
               <Typography variant='h6' component="div">
               </Typography>
